@@ -61,7 +61,7 @@
 
 ## <a name="T"> </a>T
 
-* [Tax Calculator](https://github.com/Kessir/taxcalculatorgh) - A tax calculator for Ghana to help people compute their net income, income tax. **By [@kessir](https://github.com/kessir)**
+* [Tax Calculator](https://github.com/Kessir/taxcalculatorgh) - A tax calculator for Ghana to help people compute their net income, income tax. **By [@kessir_](https://twitter.com/@kessir_)**
 
 ## <a name="U"> </a>U
 
