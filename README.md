@@ -47,6 +47,10 @@
 
 ## <a name="P"> </a>P
 
+* [Pre School (Svelte)](https://github.com/silentworks/svelte-preschool) - A preschool learning application built with svelte  **By [@silentworks](https://twitter.com/silentworks)**
+* [Pre School (React)](https://github.com/msbrime/react-preschool) - A preschool learning application built with react  **By [@_msbrime](https://twitter.com/_msbrime)**
+* [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@_bnhn](https://twitter.com/_bnhn)**
+* [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
 ## <a name="Q"> </a>Q
 
@@ -56,7 +60,7 @@
 
 ## <a name="S"> </a>S
 
-* [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@oddoye-david](https://twitter.com/theRealBraZee)**
+* [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
 
 ## <a name="T"> </a>T
@@ -64,6 +68,7 @@
 * [Tax Calculator](https://github.com/Kessir/taxcalculatorgh) - A tax calculator for Ghana to help people compute their net income, income tax. **By [@kessir](https://github.com/kessir)**
 
 ## <a name="U"> </a>U
+
 
 ## <a name="V"> </a>V
 
