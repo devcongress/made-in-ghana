@@ -21,7 +21,7 @@
 
 
 ## <a name="G"> </a>G
-* [Github User Search]('https://github.com/Chiamaka/GithubUserSearch') - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
+* [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
 
 
 ## <a name="H"> </a>H
