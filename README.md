@@ -4,14 +4,14 @@
 ## <a name="A"> </a>A
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
-* [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code [@bubunyo](https://twitter.com/bubunyo)** 
+* [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@bubunyo](https://twitter.com/bubunyo)** 
 
 ## <a name="B"> </a>B
 
 
 ## <a name="C"> </a>C
 
-* [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable By [@bubunyo](https://twitter.com/bubunyo)** 
+* [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@bubunyo](https://twitter.com/bubunyo)** 
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 
 
@@ -86,7 +86,7 @@
 * [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 ## <a name="V"> </a>V
-* [Votable](https://github.com/bubunyo/votable) -  *A simple web app to create polls share and vote* By [@bubunyo](https://twitter.com/bubunyo)** 
+* [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@bubunyo](https://twitter.com/bubunyo)** 
 
 
 ## <a name="W"> </a>W
