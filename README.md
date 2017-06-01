@@ -12,6 +12,7 @@
 ## <a name="C"> </a>C
 
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@bubunyo](https://twitter.com/bubunyo)** 
+*[Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@_bnhn](https://twitter.com/_bnhn)**
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 
 
