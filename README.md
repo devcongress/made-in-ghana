@@ -3,6 +3,7 @@
 
 ## <a name="A"> </a>A
 
+* [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 ## <a name="B"> </a>B
 
@@ -20,6 +21,12 @@
 
 
 ## <a name="F"> </a>F
+
+* [Fluxxan](https://github.com/thedumbtechguy/Fluxxan) - Fluxxan is an Android implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with minimal dependencies and support for Android SDK 8. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+
+* [Fluxxan4j](https://github.com/thedumbtechguy/Fluxxan4j) - Fluxxan4j is a Pure Java 6 implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with no external dependencies. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+
+* [Folio](https://github.com/thedumbtechguy/Folio) - Folio is a Page based navigation framework for Android with a simplified lifecycle and easy transition animations. It's intended to fulfil a similar role to fragments while looking more like Activities. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 
 ## <a name="G"> </a>G
@@ -61,6 +68,7 @@
 
 ## <a name="R"> </a>R
 
+* [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 ## <a name="S"> </a>S
 
@@ -73,6 +81,7 @@
 
 ## <a name="U"> </a>U
 
+* [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 ## <a name="V"> </a>V
 
