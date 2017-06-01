@@ -44,7 +44,7 @@
 
 
 ## <a name="N"> </a>N
-
+* [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
 
 ## <a name="O"> </a>O
 
