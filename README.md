@@ -56,6 +56,9 @@
 * [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@_bnhn](https://twitter.com/_bnhn)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
+* [Project Euler](https://github.com/oppongjr/project_euler) - A repo for mostly students, but anyone's invited. It contains **SOLVED/ATTEMPTED** [Project Euler]
+(https://projecteuler.net) questions. **By [@romeo-folie](https://twitter.com/rho_meow) [@oppongjr](htpps://twitter.com/ike__jr) [@rankingtei]
+(https://twitter.com/ranking_tei)**
 ## <a name="Q"> </a>Q
 
 
