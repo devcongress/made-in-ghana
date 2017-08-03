@@ -73,6 +73,8 @@
 
 ## <a name="R"> </a>R
 
+* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javacript. **By [Casprine](https://github.com/Casprine)**
+
 * [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
 ## <a name="S"> </a>S
