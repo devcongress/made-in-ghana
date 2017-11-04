@@ -24,6 +24,7 @@
 
 ## <a name="E"> </a>E
 
+* [ElasticSearch Report Engine](https://malike.github.io/elasticsearch-report-engine/) - An ElasticSearch plugin to return query results as either PDF,HTML or CSV. **By [@malike_st](https://twitter.com/malike_st)**
 
 ## <a name="F"> </a>F
 
@@ -36,6 +37,9 @@
 
 ## <a name="G"> </a>G
 * [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
+
+
+* [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds of data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
 
 
 ## <a name="H"> </a>H
