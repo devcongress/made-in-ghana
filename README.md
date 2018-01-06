@@ -78,7 +78,7 @@
 
 ## <a name="R"> </a>R
 
-* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javacript. **By [Casprine](https://github.com/Casprine)**
+* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [Casprine](https://github.com/Casprine)**
 
 * [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
@@ -102,7 +102,7 @@
 
 
 ## <a name="W"> </a>W
-* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader got you covered** By [@rbk_unlimited](https://twitter.com/rbk_unlimited)**
+* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered.** By [@rbk_unlimited](https://twitter.com/rbk_unlimited)**
 
 
 ## <a name="X"> </a>X
