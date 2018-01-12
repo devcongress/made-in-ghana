@@ -56,6 +56,7 @@
 
 
 ## <a name="L"> </a>L
+* [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5.* seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
 
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/seanmavley/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@seanmavley](https://github.com/seanmavley)**
