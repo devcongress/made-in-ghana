@@ -16,6 +16,7 @@
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 * [Custom MaterializeCSS Download](https://bitbucket.org/seanmavley/matcustom) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@seanmavley](https://bitbucket.org/seanmavley)**
 * [CodeBySide](https://bitbucket.org/seanmavley/codebyside) - A way to compare code side by side of different programming languages. **By [@seanmavley](https://bitbucket.org/seanmavley)**
+* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
