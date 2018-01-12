@@ -74,6 +74,9 @@
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
 
+* [Project Euler](https://github.com/oppongjr/project_euler) - A repo for mostly students, but anyone's invited. It contains **SOLVED/ATTEMPTED** [Project Euler]
+(https://projecteuler.net) questions. **By [@romeo-folie](https://twitter.com/rho_meow) [@oppongjr](htpps://twitter.com/ike__jr) [@rankingtei]
+(https://twitter.com/ranking_tei)**
 ## <a name="Q"> </a>Q
 
 
