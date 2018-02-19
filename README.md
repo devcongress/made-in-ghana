@@ -4,14 +4,14 @@
 ## <a name="A"> </a>A
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
-* [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@bubunyo](https://twitter.com/bubunyo)**
+* [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
 
 ## <a name="B"> </a>B
 
 
 ## <a name="C"> </a>C
 
-* [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@bubunyo](https://twitter.com/bubunyo)**
+* [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
 * [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@_bnhn](https://twitter.com/_bnhn)**
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 * [Custom MaterializeCSS Download](https://bitbucket.org/seanmavley/matcustom) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@seanmavley](https://bitbucket.org/seanmavley)**
@@ -100,7 +100,7 @@
 
 
 ## <a name="V"> </a>V
-* [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@bubunyo](https://twitter.com/bubunyo)**
+* [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@kiddbubu](https://twitter.com/kiddbubu)**
 
 
 ## <a name="W"> </a>W
