@@ -14,14 +14,14 @@
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
 * [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@_bnhn](https://twitter.com/_bnhn)**
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
-* [Custom MaterializeCSS Download](https://bitbucket.org/seanmavley/matcustom) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@seanmavley](https://bitbucket.org/seanmavley)**
-* [CodeBySide](https://bitbucket.org/seanmavley/codebyside) - A way to compare code side by side of different programming languages. **By [@seanmavley](https://bitbucket.org/seanmavley)**
+* [Custom MaterializeCSS Download](https://twitter.com/nkansahrexford) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+* [CodeBySide](https://twitter.com/nkansahrexford) - A way to compare code side by side of different programming languages. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
 * [DevLess (Backend-As-A-Service)](https://github.com/DevlessTeam/DV-PHP-CORE) - DevLess is a platform that allows you to easily build robust backends for your web and mobile applications by piecing together plug and play backend modules **By [@Eddy_mens](https://twitter.com/Eddy_mens) and [@tsa_tsu](https://twitter.com/tsa_tsu) and [@jlsodai](https://twitter.com/jlsodai)**
-* [DjangoHoldIt](https://github.com/seanmavley/DjangoHoldit) - A dummy image server similar to Placehold.it, however built using Django. **By [@seanmavley](https://github.com/seanmavley)**
+* [DjangoHoldIt](https://twitter.com/nkansahrexford) - A dummy image server similar to Placehold.it, however built using Django. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 ## <a name="E"> </a>E
 
@@ -59,7 +59,7 @@
 * [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5.* seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
 
 ## <a name="M"> </a>M
-* [MadeWithFirebase](https://github.com/seanmavley/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@seanmavley](https://github.com/seanmavley)**
+* [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
@@ -74,6 +74,7 @@
 * [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@_bnhn](https://twitter.com/_bnhn)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
+* [PackageToMe](https://packagetome.com) - An upcoming peer-to-peer package delivery platform with a twist. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 ## <a name="Q"> </a>Q
 
@@ -96,7 +97,7 @@
 ## <a name="U"> </a>U
 
 * [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
-* [Unifi-Guest-Bundle-Check](https://github.com/seanmavley/unifi-guest-bundle-check) - Allow users of your hotspot using the Unifi Controller with Voucher-based Authentication check their data bundle left. **By [@seanmavley](https://github.com/seanmavley)**
+* [Unifi-Guest-Bundle-Check](https://github.com/nkansahrexford/unifi-guest-bundle-check) - Allow users of your hotspot using the Unifi Controller with Voucher-based Authentication check their data bundle left. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 
 ## <a name="V"> </a>V
@@ -104,7 +105,7 @@
 
 
 ## <a name="W"> </a>W
-* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered.** By [@rbk_unlimited](https://twitter.com/rbk_unlimited)**
+* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered. **By [@rbk_unlimited](https://twitter.com/rbk_unlimited)**
 
 
 ## <a name="X"> </a>X
