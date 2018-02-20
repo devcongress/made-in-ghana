@@ -20,7 +20,7 @@
 
 ## <a name="D"> </a>D
 
-* [DevLess (Backend-As-A-Service)](https://github.com/DevlessTeam/DV-PHP-CORE) - DevLess is a platform that allows you to easily build robust backends for your web and mobile applications by piecing together plug and play backend modules **By [@Eddy_mens](https://twitter.com/Eddy_mens) and [@tsa_tsu](https://twitter.com/tsa_tsu) and [@jlsodai](https://twitter.com/jlsodai)**
+* [DevLess (Backend-As-A-Service)](https://github.com/DevlessTeam/DV-PHP-CORE) - DevLess is a platform that allows you to easily build robust backends for your web and mobile applications by piecing together plug and play backend modules **By [@Devless](https://twitter.com/devlessio)
 * [DjangoHoldIt](https://github.com/seanmavley/DjangoHoldit) - A dummy image server similar to Placehold.it, however built using Django. **By [@seanmavley](https://github.com/seanmavley)**
 
 ## <a name="E"> </a>E
