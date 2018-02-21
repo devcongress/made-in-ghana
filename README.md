@@ -82,7 +82,7 @@
 
 * [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [Casprine](https://github.com/Casprine)**
 
-* [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [Kowus](https://github.com/Kowus) and [Sammoorhouse](https://github.com/sammoorhouse)**
+* [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
 
 * [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
 
@@ -95,9 +95,9 @@
 
 * [Tax Calculator](https://github.com/Kessir/taxcalculatorgh) - A tax calculator for Ghana to help people compute their net income, income tax. **By [@kessir_](https://twitter.com/@kessir_)**
 
-* [Theodore](https://github.com/kowus/theodore) - A facebook messenger bot that connects users with open source projects around them. **By [Kowus](https://github.com/kowus)**
+* [Theodore](https://github.com/kowus/theodore) - A facebook messenger bot that connects users with open source projects around them. **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
-* [twitterControl](https://github.com/kowus/twitterControl) - A simple integration of twitter with the Arduino UNO to control a robot with tweets **By [Kowus](https://github.com/Kowus)**
+* [twitterControl](https://github.com/kowus/twitterControl) - A simple integration of twitter with the Arduino UNO to control a robot with tweets **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
 
 ## <a name="U"> </a>U
