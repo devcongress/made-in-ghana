@@ -71,7 +71,7 @@
 
 * [Pre School (Svelte)](https://github.com/silentworks/svelte-preschool) - A preschool learning application built with svelte  **By [@silentworks](https://twitter.com/silentworks)**
 * [Pre School (React)](https://github.com/msbrime/react-preschool) - A preschool learning application built with react  **By [@_msbrime](https://twitter.com/_msbrime)**
-* [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@_bnhn](https://twitter.com/Bbenhin)**
+* [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
 * [PackageToMe](https://packagetome.com) - An upcoming peer-to-peer package delivery platform with a twist. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
