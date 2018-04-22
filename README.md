@@ -3,7 +3,7 @@
 
 ## <a name="A"> </a>A
 
-* [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 * [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
 
 ## <a name="B"> </a>B
@@ -12,11 +12,11 @@
 ## <a name="C"> </a>C
 
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
-* [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@_bnhn](https://twitter.com/_bnhn)**
+* [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 * [Custom MaterializeCSS Download](https://twitter.com/nkansahrexford) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [CodeBySide](https://twitter.com/nkansahrexford) - A way to compare code side by side of different programming languages. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
-* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah](https://twitter.com/gwuah_)**
+* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah_](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
@@ -29,11 +29,11 @@
 
 ## <a name="F"> </a>F
 
-* [Fluxxan](https://github.com/thedumbtechguy/Fluxxan) - Fluxxan is an Android implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with minimal dependencies and support for Android SDK 8. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [Fluxxan](https://github.com/thedumbtechguy/Fluxxan) - Fluxxan is an Android implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with minimal dependencies and support for Android SDK 8. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
-* [Fluxxan4j](https://github.com/thedumbtechguy/Fluxxan4j) - Fluxxan4j is a Pure Java 6 implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with no external dependencies. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [Fluxxan4j](https://github.com/thedumbtechguy/Fluxxan4j) - Fluxxan4j is a Pure Java 6 implementation of the Flux Architecture that combines concepts from both Fluxxor and Redux with no external dependencies. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
-* [Folio](https://github.com/thedumbtechguy/Folio) - Folio is a Page based navigation framework for Android with a simplified lifecycle and easy transition animations. It's intended to fulfil a similar role to fragments while looking more like Activities. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [Folio](https://github.com/thedumbtechguy/Folio) - Folio is a Page based navigation framework for Android with a simplified lifecycle and easy transition animations. It's intended to fulfil a similar role to fragments while looking more like Activities. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
 
 ## <a name="G"> </a>G
@@ -71,7 +71,7 @@
 
 * [Pre School (Svelte)](https://github.com/silentworks/svelte-preschool) - A preschool learning application built with svelte  **By [@silentworks](https://twitter.com/silentworks)**
 * [Pre School (React)](https://github.com/msbrime/react-preschool) - A preschool learning application built with react  **By [@_msbrime](https://twitter.com/_msbrime)**
-* [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@_bnhn](https://twitter.com/_bnhn)**
+* [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
 * [PackageToMe](https://packagetome.com) - An upcoming peer-to-peer package delivery platform with a twist. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
@@ -81,11 +81,11 @@
 
 ## <a name="R"> </a>R
 
-* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [Casprine](https://github.com/Casprine)**
+* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [casprine_ix](https://twitter.com/casprine_ix)**
 
 * [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
 
-* [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
 ## <a name="S"> </a>S
 
@@ -103,7 +103,7 @@
 
 ## <a name="U"> </a>U
 
-* [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/frostymarvelous)**
+* [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 * [Unifi-Guest-Bundle-Check](https://github.com/nkansahrexford/unifi-guest-bundle-check) - Allow users of your hotspot using the Unifi Controller with Voucher-based Authentication check their data bundle left. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 
@@ -112,7 +112,7 @@
 
 
 ## <a name="W"> </a>W
-* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered. **By [@rbk_unlimited](https://twitter.com/rbk_unlimited)**
+* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered. **By [@ace_rbk](https://twitter.com/ace_rbk)**
 
 
 ## <a name="X"> </a>X
