@@ -12,11 +12,11 @@
 ## <a name="C"> </a>C
 
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
-* [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@_bnhn](https://twitter.com/Bbenhin)**
+* [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 * [Custom MaterializeCSS Download](https://twitter.com/nkansahrexford) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [CodeBySide](https://twitter.com/nkansahrexford) - A way to compare code side by side of different programming languages. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
-* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah](https://twitter.com/gwuah_)**
+* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah_](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
@@ -81,7 +81,7 @@
 
 ## <a name="R"> </a>R
 
-* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [Casprine](https://twitter.com/casprine_ix)**
+* [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [casprine_ix](https://twitter.com/casprine_ix)**
 
 * [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
 
@@ -112,7 +112,7 @@
 
 
 ## <a name="W"> </a>W
-* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered. **By [@rbk_unlimited](https://twitter.com/ace_rbk)**
+* [WSDownloader](https://goo.gl/lQ1Ayl) -  Ever watched a whatsapp status update and wish you could get that video or gif without pinging your friend? WSDownloader has got you covered. **By [@ace_rbk](https://twitter.com/ace_rbk)**
 
 
 ## <a name="X"> </a>X
