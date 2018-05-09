@@ -60,6 +60,7 @@
 
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+* [Mazzuma D API](https://github.com/aberba/mazzuma-d) - A Mazzuma mobile money payment API written in [D](https://dlang.org) programming language **By [@aberba](https://github.com/aberba)**
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
