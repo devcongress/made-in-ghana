@@ -92,6 +92,8 @@
 
 * [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
+[Stolen Goods](https://github.com/adwendevs/stolen-goods-svr) - A platform for listing stolen items in Ghana.   **By [Adwen Developers, a collaborative community of open source contributors](https://github.com/adwendevs/)**
+
 
 ## <a name="T"> </a>T
 
