@@ -64,9 +64,10 @@
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
+* [News-API-Java](https://github.com/KwabenBerko/News-API-Java) - A wrapper for the openweathermap  REST API **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
 ## <a name="O"> </a>O
-* [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - A wrapper for the openweathermap  REST API **By [@KwabenBerko](https://github.com/KwabenBerko)**
+* [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - An wrapper for newsapi.org  **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
 
 ## <a name="P"> </a>P
