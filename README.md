@@ -94,6 +94,8 @@
 
 * [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
+* [SmsBroadcastReceiver](https://github.com/KwabenBerko/SmsBroadcastReceiver) - An Android Broadcast Receiver Library For Capturing/Reading Incoming SMS. **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
+
 
 ## <a name="T"> </a>T
 
