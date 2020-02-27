@@ -103,6 +103,8 @@
 
 * [Theodore](https://github.com/kowus/theodore) - A facebook messenger bot that connects users with open source projects around them. **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
+* [Trivial.Utility](https://github.com/dwakel/Trivial.Utility) - A simple Nuget package library which contains helper methods that make performing simple task easy in .Net, C# **By [@dwakelKnight](https://twitter.com/dwakelKnight)**
+
 * [twitterControl](https://github.com/kowus/twitterControl) - A simple integration of twitter with the Arduino UNO to control a robot with tweets **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
 
