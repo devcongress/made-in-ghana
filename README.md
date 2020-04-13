@@ -92,6 +92,8 @@
 
 ## <a name="S"> </a>S
 
+* [Safety Tips Extension](https://github.com/viclotana/SafetyTipsExtension) - This is a browser extension that displays safety tips for preventing the spread of pandemics like COVID-19 **by [@viclotana](https://twitter.com/viclotana)**
+
 * [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
 * [SmsBroadcastReceiver](https://github.com/KwabenBerko/SmsBroadcastReceiver) - An Android Broadcast Receiver Library For Capturing/Reading Incoming SMS. **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
