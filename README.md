@@ -42,6 +42,8 @@
 
 * [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds of data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
 
+* [GLab](https://github.com/profclems/glab) - A CLI Tool for creating and managing GitLab issues and merge requests. **By [@clems_dev](https://twitter.com/clems_dev)**
+
 
 ## <a name="H"> </a>H
 * [Hubtel Payment (PHP)](https://ovac.github.io/hubtel-payment) - The best and most comphrensive PHP Client for consuming the Hubtel Payment API and for sending and receiving Mobile Money Payment from a php application with an elegant **Write as it sounds** syntax.  **By [@ovac4u](https://www.ovac4u.com)**
@@ -57,6 +59,7 @@
 
 ## <a name="L"> </a>L
 * [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5.* seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
+* [Laravel Routes to Postman Collection](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes with a single artisan command. **By [@clems_dev](https://twitter.com/clems_dev)**   
 
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
