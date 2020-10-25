@@ -5,6 +5,7 @@
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 * [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
+* [Advice Bot](https://github.com/kirkampong/TwitterBot) -  A twitter bot that replies with random quotes from Pete Edochie when tagged with "#advice". **By [@opanyin_k](https://twitter.com/opanyin_k)**
 
 ## <a name="B"> </a>B
 
