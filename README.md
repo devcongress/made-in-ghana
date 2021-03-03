@@ -35,6 +35,8 @@
 
 * [Folio](https://github.com/thedumbtechguy/Folio) - Folio is a Page based navigation framework for Android with a simplified lifecycle and easy transition animations. It's intended to fulfil a similar role to fragments while looking more like Activities. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
+* [FancyMonkey](https://github.com/Daniel-Sogbey/video-streaming-app) - A video Streaming web app built with HTML, JavaScript and Nodejs. **By [Daniel Sogbey](https://github.com/Daniel-Sogbey)**
+
 
 ## <a name="G"> </a>G
 * [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
