@@ -35,12 +35,16 @@
 
 * [Folio](https://github.com/thedumbtechguy/Folio) - Folio is a Page based navigation framework for Android with a simplified lifecycle and easy transition animations. It's intended to fulfil a similar role to fragments while looking more like Activities. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
+* [FancyMonkey](https://github.com/Daniel-Sogbey/video-streaming-app) - A video Streaming web app built with HTML, JavaScript and Nodejs. **By [Daniel Sogbey](https://github.com/Daniel-Sogbey)**
+
 
 ## <a name="G"> </a>G
 * [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
 
 
 * [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds of data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
+
+* [GLab](https://github.com/profclems/glab) - A CLI Tool for creating and managing GitLab issues and merge requests. **By [@clems_dev](https://twitter.com/clems_dev)**
 
 
 ## <a name="H"> </a>H
@@ -57,6 +61,9 @@
 
 ## <a name="L"> </a>L
 * [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5.* seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
+
+* [Laravel Routes to Postman Collection](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes with a single artisan command. **By [@clems_dev](https://twitter.com/clems_dev)**   
+
 
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
@@ -92,6 +99,8 @@
 
 ## <a name="S"> </a>S
 
+* [Safety Tips Extension](https://github.com/viclotana/SafetyTipsExtension) - This is a browser extension that displays safety tips for preventing the spread of pandemics like COVID-19 **by [@viclotana](https://twitter.com/viclotana)**
+
 * [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
 * [SmsBroadcastReceiver](https://github.com/KwabenBerko/SmsBroadcastReceiver) - An Android Broadcast Receiver Library For Capturing/Reading Incoming SMS. **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
@@ -104,6 +113,8 @@
 * [Theodore](https://github.com/kowus/theodore) - A facebook messenger bot that connects users with open source projects around them. **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
 * [TimetableGeneratorBackend](https://goo.gl/wnEko5) -  A Timetable generator backend solution that reduces timetable generation process from 3 weeks to 30minutes in secondary technical institutions in Ghana.[JUnit Tests With 75% Code Coverage, Factory Design Pattern,Singleton Design Pattern and Builder Design Pattern Implementation] **By [@ace_rbk](https://twitter.com/ace_rbk)**
+
+* [Trivial.Utility](https://github.com/dwakel/Trivial.Utility) - A simple Nuget package library which contains helper methods that make performing simple task easy in .Net, C# **By [@dwakelKnight](https://twitter.com/dwakelKnight)**
 
 * [twitterControl](https://github.com/kowus/twitterControl) - A simple integration of twitter with the Arduino UNO to control a robot with tweets **By [@barnabasnomo](https://twitter.com/barnabasnomo)**
 
