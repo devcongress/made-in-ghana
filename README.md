@@ -85,6 +85,7 @@
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
 * [PackageToMe](https://packagetome.com) - An upcoming peer-to-peer package delivery platform with a twist. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+* [Antimony](https://github.com/Vitalik-Hakim/antimony) - A free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties(Cryptocurrency) **By [@Vitalik-Hakim](https://github.com/Vitalik-Hakim)**
 
 ## <a name="Q"> </a>Q
 
