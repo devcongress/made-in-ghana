@@ -4,7 +4,6 @@
 ## <a name="A"> </a>A
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
-* [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
 
 ## <a name="B"> </a>B
 
@@ -13,14 +12,12 @@
 
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
 * [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@Bbenhin](https://twitter.com/Bbenhin)**
-* [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
-* [Custom MaterializeCSS Download](https://twitter.com/nkansahrexford) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
-* [CodeBySide](https://twitter.com/nkansahrexford) - A way to compare code side by side of different programming languages. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+
 * [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah_](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
-* [DevLess (Backend-As-A-Service)](https://github.com/DevlessTeam/DV-PHP-CORE) - DevLess is a platform that allows you to easily build robust backends for your web and mobile applications by piecing together plug and play backend modules **By [@Eddy_mens](https://twitter.com/Eddy_mens) and [@tsa_tsu](https://twitter.com/tsa_tsu) and [@jlsodai](https://twitter.com/jlsodai)**
+* [DevLess (Backend-As-A-Service)](https://github.com/DevlessTeam/DV-PHP-CORE) Archived - DevLess is a platform that allows you to easily build robust backends for your web and mobile applications by piecing together plug and play backend modules. Devless is a ready-made back-end for development of web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without worrying about neither back-end code or the business risk of a proprietary backend-as-a-service. **By [@Eddy_mens](https://twitter.com/Eddy_mens) and [@tsa_tsu](https://twitter.com/tsa_tsu) and [@jlsodai](https://twitter.com/jlsodai)**
 * [DjangoHoldIt](https://twitter.com/nkansahrexford) - A dummy image server similar to Placehold.it, however built using Django. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 ## <a name="E"> </a>E
@@ -39,7 +36,7 @@
 
 
 ## <a name="G"> </a>G
-* [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
+* [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - This is a sample iOS and Android app created with React Native that lets you search for a Github user by their username **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
 
 
 * [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds of data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
@@ -51,7 +48,6 @@
 * [Hubtel Payment (PHP)](https://ovac.github.io/hubtel-payment) - The best and most comphrensive PHP Client for consuming the Hubtel Payment API and for sending and receiving Mobile Money Payment from a php application with an elegant **Write as it sounds** syntax.  **By [@ovac4u](https://www.ovac4u.com)**
 
 ## <a name="I"> </a>I
-* [Internship Ghana](https://github.com/romeo-folie/InternshipGhana) - Simple node.js web app that scrapes and presents a list of internship opportunities in Ghana for students. **Write as it sounds** syntax.  **By [@Rho_mheow](https://twitter.com/Rho_mheow)**
 
 ## <a name="J"> </a>J
 
@@ -60,13 +56,16 @@
 
 
 ## <a name="L"> </a>L
-* [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5.* seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
+* [Laravel Hubtel Payment (Laravel ~5.0)](https://ovac.github.io/laravel-hubtel-payment) - Laravel Hubtel Payment is a Laravel 5. Seamless integration of the [OVAC Hubtel Payment](https://www.ovac4u.com/hubtel-payment) php client for consuming the Hubtel Payment API and processing mobile-money transactions in a Laravel application.  **By [@ovac4u](https://www.ovac4u.com)**
 
-* [Laravel Routes to Postman Collection](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes with a single artisan command. **By [@clems_dev](https://twitter.com/clems_dev)**   
+* [Laravel Routes to Postman Collection](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes with a single artisan command. **By [@clems_dev](https://twitter.com/clems_dev)**
+
+* [Leaf Framework (Leaf 3.0)](https://github.com/leafsphp/leaf) - Simple and elegant PHP.*
+Building tools which help you create clean, simple but powerful web applications and APIs quickly ⚡️**By [@Leafsphp](https://github.com/leafsphp)**
 
 
 ## <a name="M"> </a>M
-* [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+
 * [Mazzuma D API](https://github.com/aberba/mazzuma-d) - A Mazzuma mobile money payment API written in [D](https://dlang.org) programming language **By [@aberba](https://github.com/aberba)**
 
 ## <a name="N"> </a>N
@@ -76,6 +75,9 @@
 ## <a name="O"> </a>O
 * [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - A wrapper for the openweathermap  REST API  **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
+* [Oubre OS ](https://github.com/Virux/oubre_os) - An x86_64 toy operating system built with [Rust](https://www.rust-lang.org/).*
+This Project was built following [Phil-Opperman's Blog OS curriculum](https://os.phil-opp.com/) as one of the projects by [@TopRank](https://toprank.devcongress.org). ⚡️**By [@Rasheed Starlet](https://github.com/Virux)**
+
 
 ## <a name="P"> </a>P
 
@@ -84,7 +86,7 @@
 * [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
-* [PackageToMe](https://packagetome.com) - An upcoming peer-to-peer package delivery platform with a twist. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
+
 
 ## <a name="Q"> </a>Q
 
@@ -95,7 +97,7 @@
 
 * [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
 
-* [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
+* [Roidis](https://github.com/thedumbtechguy/Roidis) - AboutAn object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! [This is a downstream of the project.] **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
 ## <a name="S"> </a>S
 
@@ -103,7 +105,7 @@
 
 * [Slackbot (Devcongress)](https://github.com/devcongress/slackbot) - A slackbot for the DevCongress slack group that greets, tell jokes, announce events  **By [@silentworks](https://twitter.com/silentworks) and [@theRealBraZee](https://twitter.com/theRealBraZee)**
 
-* [SmsBroadcastReceiver](https://github.com/KwabenBerko/SmsBroadcastReceiver) - An Android Broadcast Receiver Library For Capturing/Reading Incoming SMS. **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
+* [SmsBroadcastReceiver](https://github.com/KwabenBerko/SmsBroadcastReceiver)Archived - An Android Broadcast Receiver Library For Capturing/Reading Incoming SMS. **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
 
 ## <a name="T"> </a>T
@@ -122,11 +124,9 @@
 ## <a name="U"> </a>U
 
 * [USSD-PDU-Converters](https://github.com/thedumbtechguy/USSD-PDU-Converters) - PDU (Portable Data Unit) Converters implemented currently in Java and PHP. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
-* [Unifi-Guest-Bundle-Check](https://github.com/nkansahrexford/unifi-guest-bundle-check) - Allow users of your hotspot using the Unifi Controller with Voucher-based Authentication check their data bundle left. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 
 
 ## <a name="V"> </a>V
-* [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@kiddbubu](https://twitter.com/kiddbubu)**
 
 
 ## <a name="W"> </a>W
