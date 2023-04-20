@@ -132,6 +132,7 @@
 
 ## <a name="V"> </a>V
 * [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@kiddbubu](https://twitter.com/kiddbubu)**
+* [Vue Typewriter Effect](https://github.com/ayitinya/vue-typewriter-effect) - A Vue 3 wrapper of typewriter-effect. **By [@ayitinya](https://ayitinya.me)**
 
 
 ## <a name="W"> </a>W
