@@ -5,6 +5,7 @@
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 * [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
+* [ Arkesel SMS (PHP Package)](https://github.com/patricpoba/arkesel-php) - A  wrapper for [Arkesel SMS](https://arkesel.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
 
 ## <a name="B"> </a>B
 
@@ -68,6 +69,8 @@
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [Mazzuma D API](https://github.com/aberba/mazzuma-d) - A Mazzuma mobile money payment API written in [D](https://dlang.org) programming language **By [@aberba](https://github.com/aberba)**
+* [MTN Mobile Money Open Api (PHP Package)](https://github.com/patricpoba/mtn-momo-api-php) - A  wrapper for [MTN mobile money Open API](https://momodeveloper.mtn.com/) APIs for sending and receiving mobile money in php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
+* [ mNotify SMS (PHP Package)](https://github.com/patricpoba/mnotify) - A  wrapper for [mNotify.com](https://mnotify.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
