@@ -54,6 +54,8 @@
 ## <a name="I"> </a>I
 * [Internship Ghana](https://github.com/romeo-folie/InternshipGhana) - Simple node.js web app that scrapes and presents a list of internship opportunities in Ghana for students. **Write as it sounds** syntax.  **By [@Rho_mheow](https://twitter.com/Rho_mheow)**
 
+* [Is-Even](https://github.com/iteearmah/is-even) - Return true if the given number is even.  **By [@iteearmah](https://twitter.com/iteearmah)**
+
 ## <a name="J"> </a>J
 
 
