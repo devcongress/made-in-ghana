@@ -76,6 +76,8 @@
 ## <a name="O"> </a>O
 * [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - A wrapper for the openweathermap  REST API  **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
+* [OpenWeatherMap-sdk(Ruby on Rails)](https://github.com/codesalley/openweather) - A wrapper for the openweathermap  REST API Ruby implementation  **By [@Codesalley](https://twitter.com/__salley)**
+
 
 ## <a name="P"> </a>P
 
