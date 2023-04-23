@@ -5,7 +5,10 @@
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 * [AutoFeedback](https://github.com/bubunyo/AutoFeedback) -  A simple tool to implement feedback with 2 lines of code. **By [@kiddbubu](https://twitter.com/kiddbubu)**
+
 * [Antimony](https://github.com/Vitalik-Hakim/antimony) - A free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties(Cryptocurrency) **By [@Vitalik-Hakim](https://github.com/Vitalik-Hakim)**
+* [ Arkesel SMS (PHP Package)](https://github.com/patricpoba/arkesel-php) - A  wrapper for [Arkesel SMS](https://arkesel.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
+
 
 ## <a name="B"> </a>B
 
@@ -54,6 +57,8 @@
 ## <a name="I"> </a>I
 * [Internship Ghana](https://github.com/romeo-folie/InternshipGhana) - Simple node.js web app that scrapes and presents a list of internship opportunities in Ghana for students. **Write as it sounds** syntax.  **By [@Rho_mheow](https://twitter.com/Rho_mheow)**
 
+* [Is-Even](https://github.com/iteearmah/is-even) - Return true if the given number is even.  **By [@iteearmah](https://twitter.com/iteearmah)**
+
 ## <a name="J"> </a>J
 
 
@@ -69,6 +74,8 @@
 ## <a name="M"> </a>M
 * [MadeWithFirebase](https://github.com/nkansahrexford/madewithfirebase.firebaseapp.com) - A serverless AngularFirebase website to showcase applications built on top of Firebase. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [Mazzuma D API](https://github.com/aberba/mazzuma-d) - A Mazzuma mobile money payment API written in [D](https://dlang.org) programming language **By [@aberba](https://github.com/aberba)**
+* [MTN Mobile Money Open Api (PHP Package)](https://github.com/patricpoba/mtn-momo-api-php) - A  wrapper for [MTN mobile money Open API](https://momodeveloper.mtn.com/) APIs for sending and receiving mobile money in php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
+* [ mNotify SMS (PHP Package)](https://github.com/patricpoba/mnotify) - A  wrapper for [mNotify.com](https://mnotify.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
@@ -76,6 +83,8 @@
 
 ## <a name="O"> </a>O
 * [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - A wrapper for the openweathermap  REST API  **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
+
+* [OpenWeatherMap-sdk(Ruby on Rails)](https://github.com/codesalley/openweather) - A wrapper for the openweathermap  REST API Ruby implementation  **By [@Codesalley](https://twitter.com/__salley)**
 
 
 ## <a name="P"> </a>P
@@ -129,6 +138,7 @@
 
 ## <a name="V"> </a>V
 * [Votable](https://github.com/bubunyo/votable) -  A simple web app to create polls share and vote **By [@kiddbubu](https://twitter.com/kiddbubu)**
+* [Vue Typewriter Effect](https://github.com/ayitinya/vue-typewriter-effect) - A Vue 3 wrapper of typewriter-effect. **By [@ayitinya](https://ayitinya.me)**
 
 
 ## <a name="W"> </a>W
