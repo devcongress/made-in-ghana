@@ -75,8 +75,8 @@ Building tools which help you create clean, simple but powerful web applications
 ## <a name="O"> </a>O
 * [OpenWeatherMap-Android-Library](https://github.com/KwabenBerko/OpenWeatherMap-Android-Library) - A wrapper for the openweathermap  REST API  **By [@KwabenBerko](https://twitter.com/kwabenaberko)**
 
-* [Oubre OS ](https://github.com/Virux/oubre) - An x86_64 toy operating system built with [Rust](https://www.rust-lang.org/).*
-This Project was built following [Phil-Opperman's Blog OS curriculum](https://os.phil-opp.com/) as one of the projects by [@TopRank](https://toprank.devcongress.org). ⚡️**By [@Rasheed Starlet](https://github.com/Virux)**
+* [Oubre OS ](https://github.com/rasheedmhd/oubre) - An x86_64 toy operating system built with [Rust](https://www.rust-lang.org/).*
+This Project was built following [Phil-Opperman's Blog OS curriculum](https://os.phil-opp.com/) as one of the projects by [@TopRank](https://toprank.devcongress.org). ⚡️**By [@Rasheed Starlet](https://github.com/rasheedmhd)**
 
 
 ## <a name="P"> </a>P
