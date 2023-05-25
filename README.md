@@ -5,6 +5,10 @@
 
 * [AndroidScreencast](https://github.com/thedumbtechguy/AndroidScreencast) - Android Screencast allows you to control your android device from your computer. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
+* [Antimony](https://github.com/Vitalik-Hakim/antimony) - A free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties(Cryptocurrency) **By [@Vitalik-Hakim](https://github.com/Vitalik-Hakim)**
+* [ Arkesel SMS (PHP Package)](https://github.com/patricpoba/arkesel-php) - A  wrapper for [Arkesel SMS](https://arkesel.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
+
+
 ## <a name="B"> </a>B
 
 
@@ -49,6 +53,8 @@
 
 ## <a name="I"> </a>I
 
+* [Is-Even](https://github.com/iteearmah/is-even) - Return true if the given number is even.  **By [@iteearmah](https://twitter.com/iteearmah)**
+
 ## <a name="J"> </a>J
 
 
@@ -67,6 +73,8 @@ Building tools which help you create clean, simple but powerful web applications
 ## <a name="M"> </a>M
 
 * [Mazzuma D API](https://github.com/aberba/mazzuma-d) - A Mazzuma mobile money payment API written in [D](https://dlang.org) programming language **By [@aberba](https://github.com/aberba)**
+* [MTN Mobile Money Open Api (PHP Package)](https://github.com/patricpoba/mtn-momo-api-php) - A  wrapper for [MTN mobile money Open API](https://momodeveloper.mtn.com/) APIs for sending and receiving mobile money in php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
+* [ mNotify SMS (PHP Package)](https://github.com/patricpoba/mnotify) - A  wrapper for [mNotify.com](https://mnotify.com/)'s APIs for sending sms messages from php and laravel apps. **By [@patricpoba](https://github.com/patricpoba)**
 
 ## <a name="N"> </a>N
 * [Number to Text (Ruby)](https://github.com/edemkumodzi/numbertotext-ruby) - A Ruby gem for converting numbers to their text equivalent (e.g. 1000 = One Thousand) **By [@edemkumodzi](https://twitter.com/edemkumodzi)**
@@ -78,6 +86,9 @@ Building tools which help you create clean, simple but powerful web applications
 * [Oubre OS ](https://github.com/rasheedmhd/oubre) - An x86_64 toy operating system built with [Rust](https://www.rust-lang.org/).*
 This Project was built following [Phil-Opperman's Blog OS curriculum](https://os.phil-opp.com/) as one of the projects by [@TopRank](https://toprank.devcongress.org). ⚡️**By [@Rasheed Starlet](https://github.com/rasheedmhd)**
 
+* [OpenWeatherMap-sdk(Ruby on Rails)](https://github.com/codesalley/openweather) - A wrapper for the openweathermap  REST API Ruby implementation  **By [@Codesalley](https://twitter.com/__salley)**
+
+
 
 ## <a name="P"> </a>P
 
@@ -86,6 +97,7 @@ This Project was built following [Phil-Opperman's Blog OS curriculum](https://os
 * [Pre School (Vue)](https://github.com/bnhn/vue-preschool) - A preschool learning application built with vue  **By [@Bbenhin](https://twitter.com/Bbenhin)**
 * [Pre School (JAMstack)](https://github.com/oddoye-david/static-preschool) - A preschool learning application built with JAMstack  **By [@theRealBraZee](https://twitter.com/theRealBraZee)**
 * [Programming Ideas 2 (Xamarin Android)](https://github.com/mclintprojects/ideabag2) - An app that provides programmers of all proficiency levels, ideas for pet projects to work on when they are looking to increase their proficiency in a particular programming language.  **By [@mclint_](https://twitter.com/mclint_)**
+
 
 
 ## <a name="Q"> </a>Q
@@ -127,6 +139,8 @@ This Project was built following [Phil-Opperman's Blog OS curriculum](https://os
 
 
 ## <a name="V"> </a>V
+* [Vue Typewriter Effect](https://github.com/ayitinya/vue-typewriter-effect) - A Vue 3 wrapper of typewriter-effect. **By [@ayitinya](https://ayitinya.me)**
+
 
 
 ## <a name="W"> </a>W
